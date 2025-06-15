@@ -1,5 +1,5 @@
 IMPORTANT NOTICE:
-There are clones of our software, this is the only official one. DO NOT use any other encryptC, ONLY this one is the one users want.
+There are clones of our software, this is the only official one. DO NOT use any other encrypC, ONLY this one is the one users want.
 <p align="center">
   <img src="https://i.ibb.co/nsZXDgxF/Screenshot-2025-06-15-at-17-02-37.png">
   <h2 align="center" style="margin-top: -4px !important;">File Encryption Application using Python</h2>
@@ -24,7 +24,7 @@ There are clones of our software, this is the only official one. DO NOT use any 
   <img src="https://user-images.githubusercontent.com/72680045/103018827-d1e20580-456b-11eb-8503-173356c1cde9.PNG" alt="EncrypC Working">
 </p>
 IMPORTANT NOTICE:
-There are clones of our software, this is the only official one. DO NOT use any other encryptC, ONLY this one is the one users want.
+There are clones of our software, this is the only official one. DO NOT use any other encrypC, ONLY this one is the one users want.
 
 ## Tech Stack Used:
 * Python3
